@@ -16,7 +16,6 @@ img {
   font-size: 20px;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-
   padding: 50px;
 }
 ul {
@@ -30,4 +29,27 @@ ul {
   padding: 100px 20px;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  width: fit-content;
+  height: 40px;
+  border-radius: 5px;
+  background-color: green;
+  font-size: 100%;
+  position: relative;
+}
+button:hover {
+  background: rgb(189, 14, 151);
+  height: 60px;
+  border-radius: 10px;
+  font-size: 40px;
+  border: 2px solid chartreuse;
+  transform: background;
+  transition-duration: 0.3s;
+}
+.capsules {
+  float: left;
+}
+.capdet {
+  text-align: left;
 }
