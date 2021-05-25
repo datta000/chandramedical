@@ -44,7 +44,6 @@ button:hover {
   border-radius: 10px;
   font-size: 40px;
   border: 2px solid chartreuse;
-  transform: background;
   transition-duration: 0.3s;
 }
 .capsules {
