@@ -231,8 +231,8 @@ main {
     width: 10vh;
   }
   .rightbar main {
-    padding: 0;
-    margin-top: 80px;
+    padding: 80px 0 0 0;
+    margin-top: 0;
   }
   .rightbar main div {
     margin-top: 40px;
