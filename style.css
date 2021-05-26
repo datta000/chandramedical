@@ -229,9 +229,13 @@ color: aliceblue;
   }
   .leftbar a div {
     width: 10vh;
+  }.rightbar main{
+    padding: 0;
+    margin: 80px 0px 0px 0px;
+    max-width: fit-content;
   }
   .rightbar main div {
-    margin-top: 120px;
+    margin-top: 80px;
     width: 40vh;
   }
   .rightbar main div img {
