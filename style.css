@@ -81,11 +81,11 @@ main {
   padding: 5%;
   background: linear-gradient(
     to right bottom,
-    rgba(217, 247, 248, 0.6),
+    rgba(255, 255, 255, 0.6),
     rgba(77, 161, 187, 0.8)
   );
   box-shadow: 2px 2px 20px rgb(0, 0, 0);
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(15px);
 }
 .glass h1 {
   color: rgb(15, 170, 23);
