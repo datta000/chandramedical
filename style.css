@@ -155,7 +155,7 @@ main {
   width: 80%;
   display: flex;
   flex-direction: column;
-  justify-content: space-around ;
+  justify-content: space-around;
 }
 .rightbar main {
   display: flex;
@@ -185,23 +185,23 @@ main {
   height: 120px;
   width: 200px;
 }
-.footer{
+.footer {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
   min-height: 20vh;
   width: 100%;
-  color:aliceblue;
+  color: aliceblue;
   background: rgb(17, 17, 17);
 }
-.social{
-font-size: 10px;
+.social {
+  font-size: 10px;
 }
 .foot a {
   padding: 20px;
-font-size: 30px;
-color: aliceblue;
+  font-size: 30px;
+  color: aliceblue;
 }
 
 @media (max-width: 600px) {
@@ -221,7 +221,7 @@ color: aliceblue;
     height: 250px;
     width: 250px;
   }
-  .glass2 p{
+  .glass2 p {
     text-align: center;
   }
   .leftbar {
@@ -229,7 +229,8 @@ color: aliceblue;
   }
   .leftbar a div {
     width: 10vh;
-  }.rightbar main{
+  }
+  .rightbar main {
     padding: 0;
     margin-top: 80px;
   }
